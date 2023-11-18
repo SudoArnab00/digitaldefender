@@ -1,7 +1,4 @@
 ---
-title: Digital Defender welcomes you
+title: We at Digital Defender welcome you.
 ---
-
-We will start helping you and making your life easier SOON.
-
-We will be launching soon
+#### We will help you get started with how to navigate through this online jungle.
